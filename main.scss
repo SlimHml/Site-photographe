@@ -1,0 +1,17 @@
+// Variables et mixins
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+//Typo
+@import 'base/typography';
+// Menu déroulant
+@import 'components/dropdown';
+// Blocs
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/sidebar';
+@import 'layout/navigation';
+@import 'layout/grid';
+
+body{
+    background-color: $slim;
+}
