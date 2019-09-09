@@ -1,0 +1,40 @@
+.titreindex{
+    margin-top: -0.5rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+    font-family: 'Satisfy', cursive; //titres
+    color: #032838;
+}
+
+.titreindex::first-letter{
+    font-size: 5rem;
+}
+
+.main>.ligneh1{
+    border: none;
+    border-bottom: 1px solid green;
+    width: 50%;
+    margin-left: 5rem;
+    margin-top: -1rem;
+}
+
+main>.bottom{
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid green;
+    margin-left: 2rem;
+}
+
+.main .indextext{
+    margin-left: 2rem;
+    margin-top: -2rem;
+    font-family: 'Chilanka', cursive; //textes
+    font-size: 1.6rem;
+}
+
+.indextext::first-letter{
+    font-family: 'Pacifico', cursive; //Premières lettres
+    color: forestgreen;
+    font-size: 5rem;
+    padding-right: .6rem;
+}
